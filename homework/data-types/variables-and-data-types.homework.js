@@ -15,3 +15,8 @@
 */
 
 // Begin writing your code below
+
+Let President = George Washington 
+console.log("President:", George Washington); 
+The first president was President.
+  node homework/data-types/variables-and-data-types.homework.js
