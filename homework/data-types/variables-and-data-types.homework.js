@@ -18,3 +18,15 @@
 
 let President = "George Washington"; 
 console.log("President:", President); 
+
+const sixteen = "Abraham Lincoln";
+console.log("sixteen:", sixteen);
+
+let WasWashingtongood = true;
+console.log("George Washington was a good president:",'George Washington was a good president');
+
+const Reagan = undefined 
+console.log("Reagan:", Reagan);
+
+let Kennedy = null 
+console.log("Kennedy:", Kennedy); 
