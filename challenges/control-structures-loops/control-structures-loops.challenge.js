@@ -5,3 +5,13 @@
 */
 
 // Begin writing your code below
+
+let starWarsBountyHunter = ['cadBane', 'Jango', 'bobaFett', 'Hondo', 'dinDjarin']; 
+
+let k = 0 
+while (k < starWarsBountyHunter.length) {
+    if (starWarsBountyHunter[k].includes('o')) { 
+        console.log(starWarsBountyHunter[k]);
+    }
+    k++; 
+}
